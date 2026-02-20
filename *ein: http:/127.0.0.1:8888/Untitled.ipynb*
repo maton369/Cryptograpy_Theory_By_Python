@@ -1,0 +1,19 @@
+
+In [1]:
+print("Hello")
+Hello
+
+
+In [2]:
+import numpy
+
+Truncated Traceback (Use C-c C-$ to view full TB):
+Cell In[2], line 1
+----> 1 import numpy
+
+ModuleNotFoundError: No module named 'numpy'
+
+
+In [ ]:
+
+
